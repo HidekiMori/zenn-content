@@ -6,6 +6,7 @@ topics: ["api", "architecture", "backend", "devops"]
 published: false
 ---
 
+![](https://static.zenn.studio/user-upload/bae47fb3e26a-20260502.png)
 ほとんどの非同期 API は、ひとつのことだけを約束します。「あなたのジョブを開始する」こと。`202 Accepted` を返してジョブ ID を渡したら、契約はそこで終わり。残りはあなたの問題です。
 
 私は少し違うやり方をしています。約束はひとつだけ。

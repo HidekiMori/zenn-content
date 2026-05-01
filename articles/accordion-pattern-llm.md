@@ -6,6 +6,7 @@ topics: ["llm", "ai", "architecture", "api"]
 published: false
 ---
 
+![](https://static.zenn.studio/user-upload/0c34469a0dcd-20260502.png)
 構造化抽出のチュートリアルって、だいたい同じ形をしています。ドキュメントを渡して、「A、B、C、D、E、F を抽出して」という大きなプロンプトをひとつ書いて、JSON を受け取る。これで完成。
 
 短い入力に対しては、これで動きます。

@@ -6,6 +6,7 @@ topics: ["api", "architecture", "career", "solo"]
 published: false
 ---
 
+![](https://static.zenn.studio/user-upload/c014ee07d56f-20260502.png)
 2002 年 12 月、私はほぼ倒産しかけていた会社に入りました。
 
 25 歳。タイトルなしのソフトウェアエンジニアでした。会社は現金を燃やしていて、次のプロダクトローンチは翌 1 月 — 入社からおよそ 1 ヶ月後 — にやらなければならない状況でした。
