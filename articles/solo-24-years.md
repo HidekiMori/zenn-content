@@ -1,7 +1,7 @@
 ---
 title: "ひとりで 24 年作り続けて、生き残ったもの"
 emoji: "🛤️"
-type: "tech"
+type: "idea"
 topics: ["api", "architecture", "career", "solo"]
 published: true
 published_at: 2026-05-11 22:00

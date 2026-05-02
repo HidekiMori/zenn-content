@@ -4,7 +4,7 @@ emoji: "⚖️"
 type: "idea"
 topics: ["api", "architecture", "backend", "devops"]
 published: true
-published_at: 2026-05-04 22:00
+published_at: 2026-05-18 22:00
 canonical_url: https://dev.to/hidekimori/dynamic-isnt-enough-operations-is-the-other-half-2d8f
 ---
 
