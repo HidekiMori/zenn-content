@@ -108,6 +108,6 @@ canonical_url: https://dev.to/hidekimori/dynamic-isnt-enough-operations-is-the-o
 *このシリーズの記事:*
 - *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://zenn.dev/hidekimori/articles/accordion-pattern-llm)*
 - *[ジョブがいつ終わるかは誰にも分からない。それでも正確に報告したい。](https://zenn.dev/hidekimori/articles/async-job-completion)*
-- *[ひとりで 24 年作り続けて、生き残ったもの](https://zenn.dev/hidekimori/articles/solo-24-years)*
+- *[ひとりで 24 年作り続けて、生き残ったもの](https://zenn.dev/hidekimori/articles/solo-24-years-2)*
 
 *この記事の英語版: [Dynamic isn't enough. Operations is the other half.](https://dev.to/hidekimori/dynamic-isnt-enough-operations-is-the-other-half-2d8f) (dev.to)*
