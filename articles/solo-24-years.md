@@ -3,7 +3,9 @@ title: "ひとりで 24 年作り続けて、生き残ったもの"
 emoji: "🛤️"
 type: "idea"
 topics: ["api", "architecture", "career", "solo"]
-published: false
+published: true
+published_at: 2026-05-11 22:00
+canonical_url: https://dev.to/hidekimori/what-survives-when-you-build-alone-for-24-years-4e7d
 ---
 
 ![](https://static.zenn.studio/user-upload/c014ee07d56f-20260502.png)
@@ -132,7 +134,7 @@ published: false
 ---
 
 *このシリーズの記事:*
-- *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb) (英語版)*
-- *ジョブがいつ終わるかは誰にも分からない。それでも正確に報告したい。 (5 月 4 日公開予定、英語版)*
+- *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://zenn.dev/hidekimori/articles/accordion-pattern-llm)*
+- *[ジョブがいつ終わるかは誰にも分からない。それでも正確に報告したい。](https://zenn.dev/hidekimori/articles/async-job-completion)*
 
-*この記事は dev.to に英語で公開する [What survives when you build alone for 24 years](https://dev.to/) の日本語版です。(URL は publish 後に追記)*
+*この記事の英語版: [What survives when you build alone for 24 years](https://dev.to/hidekimori/what-survives-when-you-build-alone-for-24-years-4e7d) (dev.to)*

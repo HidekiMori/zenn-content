@@ -3,7 +3,9 @@ title: "ジョブがいつ終わるかは誰にも分からない。それでも
 emoji: "⏳"
 type: "tech"
 topics: ["api", "architecture", "backend", "devops"]
-published: false
+published: true
+published_at: 2026-05-04 22:00
+canonical_url: https://dev.to/hidekimori/nobody-knows-when-a-job-will-finish-id-still-like-to-report-it-accurately-26nn
 ---
 
 ![](https://static.zenn.studio/user-upload/bae47fb3e26a-20260502.png)
@@ -134,6 +136,7 @@ public JobResult runJob(Input input) throws Exception {
 
 ---
 
-*このシリーズの最初の記事: [アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb) (英語版)*
+*このシリーズの記事:*
+- *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://zenn.dev/hidekimori/articles/accordion-pattern-llm)*
 
-*この記事は dev.to に英語で公開した [Nobody knows when a job will finish. I'd still like to report it accurately.](https://dev.to/) の日本語版です。(URL は publish 後に追記)*
+*この記事の英語版: [Nobody knows when a job will finish. I'd still like to report it accurately.](https://dev.to/hidekimori/nobody-knows-when-a-job-will-finish-id-still-like-to-report-it-accurately-26nn) (dev.to)*

@@ -3,7 +3,9 @@ title: "動的設計だけでは足りない。運用がもう半分です。"
 emoji: "⚖️"
 type: "idea"
 topics: ["api", "architecture", "backend", "devops"]
-published: false
+published: true
+published_at: 2026-05-18 22:00
+canonical_url: https://dev.to/hidekimori/dynamic-isnt-enough-operations-is-the-other-half-2d8f
 ---
 
 ![](https://static.zenn.studio/user-upload/5b8f0c5d7f0d-20260502.png)
@@ -104,8 +106,8 @@ published: false
 ---
 
 *このシリーズの記事:*
-- *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb) (英語版)*
-- *ジョブがいつ終わるかは誰にも分からない。それでも正確に報告したい。 (英語版)*
-- *ひとりで 24 年作り続けて、生き残ったもの (英語版)*
+- *[アコーディオンパターン: ひとつの巨大な LLM プロンプトを書くのをやめた話](https://zenn.dev/hidekimori/articles/accordion-pattern-llm)*
+- *[ジョブがいつ終わるかは誰にも分からない。それでも正確に報告したい。](https://zenn.dev/hidekimori/articles/async-job-completion)*
+- *[ひとりで 24 年作り続けて、生き残ったもの](https://zenn.dev/hidekimori/articles/solo-24-years)*
 
-*この記事は dev.to に英語で公開する [Dynamic isn't enough. Operations is the other half.](https://dev.to/) の日本語版です。(URL は publish 後に追記)*
+*この記事の英語版: [Dynamic isn't enough. Operations is the other half.](https://dev.to/hidekimori/dynamic-isnt-enough-operations-is-the-other-half-2d8f) (dev.to)*

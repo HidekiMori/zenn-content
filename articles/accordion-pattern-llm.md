@@ -3,7 +3,9 @@ title: "アコーディオンパターン: ひとつの巨大な LLM プロン�
 emoji: "🪗"
 type: "tech"
 topics: ["llm", "ai", "architecture", "api"]
-published: false
+published: true
+published_at: 2026-05-04 22:00
+canonical_url: https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb
 ---
 
 ![](https://static.zenn.studio/user-upload/0c34469a0dcd-20260502.png)
@@ -168,4 +170,4 @@ curl -X POST https://gw.ldxhub.io/structflow/jobs \
 
 ---
 
-*この記事は dev.to に英語で公開した [The Accordion Pattern](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb) の日本語版です。*
+*この記事の英語版: [The Accordion Pattern: Why I stopped writing one fat LLM prompt](https://dev.to/hidekimori/the-accordion-pattern-why-i-stopped-writing-one-fat-llm-prompt-18mb) (dev.to)*
