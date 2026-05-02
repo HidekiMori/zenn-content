@@ -1,10 +1,10 @@
 ---
 title: "ひとりで 24 年作り続けて、生き残ったもの"
 emoji: "🛤️"
-type: "idea"
+type: "tech"
 topics: ["api", "architecture", "career", "solo"]
 published: true
-published_at: 2026-05-04 22:00
+published_at: 2026-05-11 22:00
 canonical_url: https://dev.to/hidekimori/what-survives-when-you-build-alone-for-24-years-4e7d
 ---
 
