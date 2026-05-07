@@ -8,6 +8,7 @@ published_at: 2026-05-25 22:00
 canonical_url: https://dev.to/hidekimori/live-report-at-this-speed-you-dont-theorize-you-eliminate-1o7h
 ---
 
+![](https://static.zenn.studio/user-upload/027056f838b9-20260507.png)
 4 月 15 日から 4 月 30 日まで。2 週間。1 人。そこに AI が加わった。
 
 これはライブレポートで、振り返りではない。
