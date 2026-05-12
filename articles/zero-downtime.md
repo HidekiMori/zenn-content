@@ -3,7 +3,7 @@ title: "24 年、10 回の DB 引越し、ダウンタイムゼロ。"
 emoji: "💾"
 type: "idea"
 topics: ["database", "devops", "architecture", "softwareengineering"]
-published: false
+published: true
 published_at: 2026-06-08 22:00
 canonical_url: https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zero-downtime-633
 ---
