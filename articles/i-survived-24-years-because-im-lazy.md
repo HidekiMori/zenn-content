@@ -150,7 +150,7 @@ AIを称賛するためにこう言っているわけではありません。そ
 - *[24年間、10回のDBマイグレーション、ダウンタイム・ゼロ](https://zenn.dev/hidekimori/articles/zero-downtime)*
 - *[一度コードをしっかりと書けば、仕様に煩わされることはなくなります](https://zenn.dev/hidekimori/articles/write-it-well)*
 - *[3行書いて、走らせる](https://zenn.dev/hidekimori/articles/three-line-discipline)*
-- *[1本の電話から始まり、いかにして仲介者を排除したか](https://zenn.dev/hidekimori/articles/middleman)*
-- *[誰も見ていないグラフ](https://zenn.dev/hidekimori/articles/db-graph)*
+- *[1本の電話から始まり、いかにして仲介者を排除したか](https://zenn.dev/hidekimori/articles/how-i-removed-the-middleman)*
+- *[誰も見ていないグラフ](https://zenn.dev/hidekimori/articles/the-graph-nobody-is-watching)*
 
 *この記事の英語版: [I survived 24 years because I'm lazy](https://dev.to/hidekimori/i-survived-24-years-because-im-lazy-75p) (dev.to)*
