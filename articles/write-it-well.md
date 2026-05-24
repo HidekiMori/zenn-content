@@ -134,7 +134,7 @@ Rangeリクエストは機能しました。レジューム（再開）も機能
 - *[ジョブがいつ終わるかは誰にもわかりません。それでも、私は正確に報告したいと考えています。](https://zenn.dev/hidekimori/articles/async-job-completion)*
 - *[24年間一人で作り続けたとき、何が生き残るのか](https://zenn.dev/hidekimori/articles/solo-24-years)*
 - *[動的設計だけでは不十分です。運用がもう半分の要素なのです。](https://zenn.dev/hidekimori/articles/dynamic-isnt-enough)*
-- *[ライブレポート：このスピードの中では、理論をこねるのではなく、消去法で進む](https://zenn.dev/hidekimori/articles/live-report-elimination)*
+- *[ライブレポート：このスピードの中では、ただひたすら消去法だけで進む](https://zenn.dev/hidekimori/articles/live-report-elimination)*
 - *[抽象化は問題ありません。そこから始めるのが問題なのです。](https://zenn.dev/hidekimori/articles/abstractions-are-fine)*
 - *[24年間、10回のDBマイグレーション、ダウンタイム・ゼロ](https://zenn.dev/hidekimori/articles/zero-downtime)*
 

@@ -1,5 +1,5 @@
 ---
-title: "ライブレポート：このスピードの中では、理論をこねるのではなく、消去法で進む"
+title: "ライブレポート：このスピードの中では、ただひたすら消去法だけで進む"
 emoji: "⚡"
 type: "idea"
 topics: ["api", "architecture", "ai", "productivity"]
