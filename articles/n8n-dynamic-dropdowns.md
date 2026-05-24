@@ -270,3 +270,7 @@ LDX hubにおいて、これは、私が一切のハードコーディングを�
 面白かったのは、式（Expression）を書いたことではありません。Formノードの設定の中に、そのトグルがずっとそこにあったという発見です。このテクニックが斬新に見えるのは、単にドキュメント化が不足しているからに過ぎません。
 
 もしあなたが、自分自身の正確なセットアップでしか動かないn8nテンプレートを作ってきたなら、設定のノブの1つを、API呼び出しによって駆動するドロップダウンへと移してみてください。そこから、このテクニックが実を結び始めます。
+
+---
+
+*この記事の英語版: [Build a multi-step n8n Form with dynamic dropdowns (no plugin needed)](https://dev.to/hidekimori/build-a-multi-step-n8n-form-with-dynamic-dropdowns-no-plugin-needed-1pm4) (dev.to)*
