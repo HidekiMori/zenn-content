@@ -4,7 +4,7 @@ emoji: "💾"
 type: "idea"
 topics: ["database", "devops", "architecture", "softwareengineering"]
 published: true
-published_at: 2026-06-08 22:00
+published_at: 2026-06-15 22:00
 canonical_url: https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zero-downtime-633
 ---
 
@@ -144,6 +144,7 @@ canonical_url: https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zer
 - *[24年間一人で作り続けたとき、何が生き残るのか](https://zenn.dev/hidekimori/articles/solo-24-years)*
 - *[動的設計だけでは不十分です。運用がもう半分の要素なのです。](https://zenn.dev/hidekimori/articles/dynamic-isnt-enough)*
 - *[ライブレポート：このスピードの中では、ただひたすら消去法だけで進む](https://zenn.dev/hidekimori/articles/live-report-elimination)*
+- *[気づかぬうちに閉じていたループ](https://zenn.dev/hidekimori/articles/the-loop-i-didnt-notice-closing)*
 - *[抽象化は問題ありません。そこから始めるのが問題なのです。](https://zenn.dev/hidekimori/articles/abstractions-are-fine)*
 
 *この記事の英語版: [Twenty four years, ten DB migrations, zero downtime](https://dev.to/hidekimori/twenty-four-years-ten-db-migrations-zero-downtime-633) (dev.to)*

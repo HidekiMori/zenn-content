@@ -4,7 +4,7 @@ emoji: "💡"
 type: "idea"
 topics: ["api", "architecture", "serverless", "softwareengineering"]
 published: true
-published_at: 2026-06-01 22:00
+published_at: 2026-06-08 22:00
 canonical_url: https://dev.to/hidekimori/abstractions-are-fine-starting-on-them-isnt-12ff
 ---
 
@@ -131,5 +131,6 @@ EC2になっても、この点はあまり変わりませんでした。イン�
 - *[24年間一人で作り続けたとき、何が生き残るのか](https://zenn.dev/hidekimori/articles/solo-24-years)*
 - *[動的設計だけでは不十分です。運用がもう半分の要素なのです。](https://zenn.dev/hidekimori/articles/dynamic-isnt-enough)*
 - *[ライブレポート：このスピードの中では、ただひたすら消去法だけで進む](https://zenn.dev/hidekimori/articles/live-report-elimination)*
+- *[気づかぬうちに閉じていたループ](https://zenn.dev/hidekimori/articles/the-loop-i-didnt-notice-closing)*
 
 *この記事の英語版: [Abstractions are fine. Starting on them isn't.](https://dev.to/hidekimori/abstractions-are-fine-starting-on-them-isnt-12ff) (dev.to)*
